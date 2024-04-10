@@ -1,6 +1,6 @@
 Canvas Pong
 ===========
-
+matt changed this
 This is a small experiment to implement a version of the classic Pong game in an HTML <canvas>.
 
  * You can find the [game here](http://codeincomplete.com/posts/2011/5/14/javascript_pong/demo.html)
